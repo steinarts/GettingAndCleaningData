@@ -118,13 +118,13 @@ The labels I have then added as a column called activites to the full data set.
 
 To make the features (column) names a little more clear I have done the following:
 
-*renamed the t and f prefixed to time and ferquence
-*renamed mag to magnitude
-*renamed acc to acceleration
-*renamed the -x, -y and -z to x,y and zaxis
-*made all letters lower case
-*removed the () in the names
-*removed "-"
+- renamed the t and f prefixed to time and ferquence
+- renamed mag to magnitude
+- renamed acc to acceleration
+- renamed the -x, -y and -z to x,y and zaxis
+- made all letters lower case
+- removed the () in the names
+- removed "-"
 
 and the updated names with the ny col.names
 
